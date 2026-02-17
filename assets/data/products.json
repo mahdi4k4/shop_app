@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "RTX 4070",
+    "price": 350000000,
+    "image": "https://i.imgur.com/gpu.png",
+    "description": "کارت گرافیک حرفه‌ای انویدیا",
+    "category": "GPU"
+  },
+  {
+    "id": 2,
+    "name": "Ryzen 7 7800X",
+    "price": 180000000,
+    "image": "https://i.imgur.com/cpu.png",
+    "description": "پردازنده قدرتمند AMD",
+    "category": "CPU"
+  },
+  {
+    "id": 3,
+    "name": "Samsung SSD 1TB",
+    "price": 45000000,
+    "image": "https://i.imgur.com/ssd.png",
+    "description": "SSD پرسرعت سامسونگ",
+    "category": "SSD"
+  },
+  {
+    "id": 4,
+    "name": "Corsair RAM 32GB",
+    "price": 60000000,
+    "image": "https://i.imgur.com/ram.png",
+    "description": "رم گیمینگ",
+    "category": "RAM"
+  }
+]
